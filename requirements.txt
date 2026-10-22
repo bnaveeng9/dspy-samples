@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-openai
+python-dotenv
+pydantic
+ipython
+jupyter
+ipywidgets
+ipykernel
+dspy-ai
